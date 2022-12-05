@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Konrad Orzeszek
-- 👀 I’m interested in fullstack JS future ;)
+- 👀 I’m interested on Frontend JS developer with elements of fullstack future ;)
 - 🌱 I’m currently learning about MySQL & MongoDB
 - 📫 You can text me on [LI](https://www.linkedin.com/in/konrad-orzeszek/)
 
