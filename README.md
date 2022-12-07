@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konrad Orzeszek
 - 👀 I’m interested on Frontend JS developer with elements of fullstack future ;)
-- 🌱 I’m currently learning about MySQL & MongoDB
+- 🌱 I’m currently learning about Vue3
 - 📫 You can text me on [LI](https://www.linkedin.com/in/konrad-orzeszek/)
 
 <!---
